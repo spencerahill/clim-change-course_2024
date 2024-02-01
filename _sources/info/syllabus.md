@@ -3,13 +3,13 @@
 ## EAS 48800 / EAS B8800 / SUS 7300B: Climate and Climate Change
 
 ## Course Information
-- **Class Times**: Tuesdays and Thursdays, 9:30-10:45pm; full schedule [here](./schedule)
+- **Class Times**: Tuesdays and Thursdays, 9:30-10:45am; full schedule [here](./schedule)
 - **Location**: Marshak 1128
 - **Blackboard site**: access by logging into [CUNY Blackboard](https://bbhosted.cuny.edu)
 - **Course Website**: [https://spencerahill.github.io/clim-change-course_2024](https://spencerahill.github.io/clim-change-course_2024)
 - **Instructor**: [Spencer Hill](https://shill.ccny.cuny.edu)
 - **Email**: [shill1@ccny.cuny.edu](mailto:shill1@ccny.cuny.edu)
-- **Office Hours**: TBD, and by appointment, Marshak 733.
+- **Office Hours**: Tuesdays 10:45-11:45am, and by appointment, Marshak 733.
 - **Final exam date and time**: TBD
 
 ## Course Description

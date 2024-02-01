@@ -16,9 +16,9 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
   - Notes
 * - Th 1/25
   - 1
-  - Intro to climate I
+  - Course overview
   - Ch. 1
-  - Course overview; [syllabus](./syllabus)
+  - [syllabus](./syllabus)
 * - T 1/30
   - 2
   - **NO CLASS** 
@@ -26,32 +26,32 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
   - (Prof. is at a conference)
 * - Th 2/1
   - 3
-  - Intro to climate II 
-  -
+  - Intro to climate I
+  - Ch. 1, skimming 1.6
   -
 * - T 2/6
   - 4
-  - Global energy balance I
-  - Ch. 2
+  - Intro to climate II
+  -
   -
 * - Th 2/8
   - 5
-  - Global energy balance II
-  - 
+  - Global energy balance I
+  - Ch. 2
   - 
 * - T 2/13
   - 6
-  - Atmospheric radiative transfer I
-  - Ch. 3
+  - Global energy balance II
+  - 
   - 
 * - Th 2/15
   - 7
-  - Atmospheric radiative transfer II
+  - Atmospheric radiative transfer I
   -
   -
 * - T 2/20
   - 8
-  - Atmospheric radiative transfer III
+  - Atmospheric radiative transfer II
   - 
   -
 * - Th 2/22
