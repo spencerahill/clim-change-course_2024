@@ -47,7 +47,7 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
 * - Th 2/15
   - 7
   - Atmospheric radiative transfer I
-  -
+  - Ch. 3
   -
 * - T 2/20
   - 8

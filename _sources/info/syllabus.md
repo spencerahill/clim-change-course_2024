@@ -13,7 +13,9 @@
 - **Final exam date and time**: TBD
 
 ## Course Description
-This class introduces you to modern climate science.  We'll explore questions like: What does *climate* mean?  What *is* Earth's climate now?  What controls it?  What was it like in Earth's past, and why?  What is it likely to do in the future?  How do human activities influence it?  Answering them requires multiple scientific approaches including meteorology, physical oceanography, hydrology, atmospheric chemistry, ocean biogeochemistry, and ecology.  Climate science relies on incredibly complicated and powerful tools such as a satellite-based observational network and supercomputer-run climate models---but this class will emphasize simple models and conceptual understanding: how we can understand many fundamental aspects of the incredibly complex climate system on a chalkboard via remarkably elegant and simple frameworks.
+This class introduces you to modern climate science.  We'll explore questions like: What does *climate* mean?  What *is* Earth's climate now?  What controls it?  What was it like in Earth's past, and why?  What is it likely to do in the future?  How do human activities influence it?  Answering them requires multiple scientific approaches including meteorology, physical oceanography, hydrology, atmospheric chemistry, ocean biogeochemistry, and ecology.  
+
+Climate science relies on incredibly complicated and powerful tools such as a satellite-based observational network and supercomputer-run climate models---but this class will emphasize simple models and conceptual understanding: how we can understand many fundamental aspects of the incredibly complex climate system on a chalkboard via remarkably elegant and simple frameworks.
 
 ## Grading
 There is no pre-set distribution of grades or "curve" across the class: you are **not** competing against your classmates.
