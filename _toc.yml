@@ -8,4 +8,7 @@ parts:
     chapters: 
       - file: info/syllabus
       - file: info/schedule
+  - caption: Assignments
+    chapters: 
+      - file: assignments/b8800-term-paper
 
