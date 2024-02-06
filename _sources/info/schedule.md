@@ -1,8 +1,15 @@
 # Schedule
 
 :::{warning}
-This is a **tentative** schedule generated at the beginning of the semester.  It's unlikely that we'll follow it exactly for the whole semester; think of it as giving an overall gist of roughly what topics we'll be covering and when. 
+Last updated: 2024-02-06, valid for class up to and including 2024-02-13.
+
+For lectures *after* the date printed above, the schedule is **tentative**. 
 :::
+
+:::{warning}
+Please complete the assigned reading for a given day **before** that day's class.  And HW assignments are due at the **start** of class that day, either in hard copy or by email.
+:::
+
 
 ```{list-table}
 :header-rows: 1
@@ -17,7 +24,7 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
 * - Th 1/25
   - 1
   - Course overview
-  - Ch. 1
+  - 
   - [syllabus](./syllabus)
 * - T 1/30
   - 2
@@ -27,13 +34,13 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
 * - Th 2/1
   - 3
   - Intro to climate I
-  - Ch. 1, skimming 1.6
   -
+  - 
 * - T 2/6
   - 4
   - Intro to climate II
-  -
-  -
+  - Ch. 1, skimming 1.6
+  - HW1 assigned; due 2/13
 * - Th 2/8
   - 5
   - Global energy balance I

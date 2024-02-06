@@ -24,7 +24,9 @@ For those enrolled in this class as EAS 48800 or SUS 7300B, this course is 3 cre
 
 The grading breakdown is listed below.  Participation is determined by your attendance, attentiveness, and engagement during class.  Attending class is crucial!  Lectures will not generally be recorded or zoomed, because as much as possible we'll be working at the blackboard rather than from slides.
 
-Details on the homework assignments, exams, and (for B8800 only) term paper will be announced.
+Details on the homework assignments and exams wil be annouced.
+
+For B8800 students only, details on the required term paper are available [here](../assignments/b8800-term-paper).
 
 ```{list-table}
 :header-rows: 1
@@ -50,6 +52,17 @@ Details on the homework assignments, exams, and (for B8800 only) term paper will
   - 0%
   - 20%
 ```
+
+## Expectations
+### Readings
+You should consider assigned reading from the textbook to be **mandatory**, as opposed to optional/supplemental.  Asssigned readings are posted on the [course schedule](./schedule), and it is expected that you have completed the assigned reading **prior to arriving at class that day**.
+
+## Homework
+HW assignments are graded on an *effort* basis, A+ through F.  An earnest, thoughtful attempt at every problem will earn you an A.  Truly exceptional work will earn an A+.
+
+All HW due dates will be posted on the [course schedule](./schedule).  **They are due at the START of class, 9:30am, that day, either in-person or by email.**
+
+At the end of the semester, your lowest HW score will be dropped.
 
 ## Course materials
 ### Required textbook
