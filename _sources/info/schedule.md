@@ -40,7 +40,7 @@ Please complete the assigned reading for a given day **before** that day's class
   - 4
   - Intro to climate II
   - Ch. 1, skimming 1.6
-  - HW1 assigned; due 2/13
+  - [HW1](../assignments/hws) assigned; due 2/13
 * - Th 2/8
   - 5
   - Global energy balance I
@@ -50,7 +50,7 @@ Please complete the assigned reading for a given day **before** that day's class
   - 6
   - Global energy balance II
   - 
-  - 
+  - **HW1 due**
 * - Th 2/15
   - 7
   - Atmospheric radiative transfer I
