@@ -1,9 +1,7 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-02-06, valid for class up to and including 2024-02-13.
-
-For lectures *after* the date printed above, the schedule is **tentative**. 
+Last updated: 2024-02-12, valid for class up to and including 2024-02-15.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
@@ -40,7 +38,7 @@ Please complete the assigned reading for a given day **before** that day's class
   - 4
   - Intro to climate II
   - Ch. 1, skimming 1.6
-  - [HW1](../assignments/hws) assigned; due 2/13
+  - [HW1](../assignments/hws) assigned; due 2/15
 * - Th 2/8
   - 5
   - Global energy balance I
@@ -48,18 +46,18 @@ Please complete the assigned reading for a given day **before** that day's class
   - 
 * - T 2/13
   - 6
+  - **NO CLASS**
+  - 
+  - (canceled b/c of snow storm)
+* - Th 2/15
+  - 7
   - Global energy balance II
   - 
   - **HW1 due**
-* - Th 2/15
-  - 7
-  - Atmospheric radiative transfer I
-  - Ch. 3
-  -
 * - T 2/20
   - 8
-  - Atmospheric radiative transfer II
-  - 
+  - Atmospheric radiative transfer I
+  - Ch. 3
   -
 * - Th 2/22
   - 9
@@ -68,23 +66,23 @@ Please complete the assigned reading for a given day **before** that day's class
   - (All classes follow Monday schedule)
 * - T 2/27
   - 10
-  - Surface energy balance I
-  - Ch. 4
+  - Atmospheric radiative transfer II 
+  - 
   - 
 * - Th 2/29
   - 11
-  - Surface energy balance II 
-  - 
+  - Surface energy balance I
+  - Ch. 4
   -
 * - T 3/5
   - 12
-  - Hydrologic cycle I
-  - Ch. 5
+  - Surface energy balance II
+  - 
   - 
 * - Th 3/7
   - 13
-  - Hydrologic cycle II
-  -
+  - Hydrologic cycle I
+  - Ch. 5
   - 
 * - T 3/12
   - 14
