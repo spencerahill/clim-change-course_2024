@@ -1,7 +1,7 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-02-15, valid for class up to and including 2024-02-22.  For lectures *after* this date, the schedule is **tentative**. 
+Last updated: 2024-02-20, valid for class up to and including 2024-02-22.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
@@ -56,8 +56,8 @@ Please complete the assigned reading for a given day **before** that day's class
   - **HW1 due**
 * - T 2/20
   - 8
-  - Global energy balance III, Atmospheric radiative transfer I
-  - Ch. 3: §3.1-3.5
+  - Global energy balance III
+  - 
   -
 * - Th 2/22
   - 9
@@ -66,23 +66,23 @@ Please complete the assigned reading for a given day **before** that day's class
   - (All classes follow Monday schedule)
 * - T 2/27
   - 10
-  - Atmospheric radiative transfer II 
-  - Ch. 3: §3.6-3.12
+  - Atmospheric radiative transfer I
+  - Ch. 3: §3.1-3.5
   - 
 * - Th 2/29
   - 11
-  - Surface energy balance I
-  - Ch. 4
+  - Atmospheric radiative transfer II
+  - Ch. 3: §3.6-3.12
   -
 * - T 3/5
   - 12
-  - Surface energy balance II
-  - 
+  - Surface energy balance I
+  - Ch. 4
   - 
 * - Th 3/7
   - 13
-  - Hydrologic cycle I
-  - Ch. 5
+  - Surface energy balance II
+  - 
   - 
 * - T 3/12
   - 14
@@ -91,17 +91,17 @@ Please complete the assigned reading for a given day **before** that day's class
   - 
 * - Th 3/14
   - 15
-  - Atmospheric general circulation I
-  - Ch. 6
+  - Hydrological cycle
+  - Ch. 5
   -
 * - T 3/19
   - 16
-  - Atmospheric general circulation II
-  - 
+  - Atmospheric general circulation I
+  - Ch. 6
   -
 * - Th 3/21
   - 17
-  - Atmospheric general circulation III
+  - Atmospheric general circulation II
   - 
   -
 * - T 3/26
