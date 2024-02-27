@@ -22,9 +22,9 @@ There is no pre-set distribution of grades or "curve" across the class: you are 
 
 For those enrolled in this class as EAS 48800 or SUS 7300B, this course is 3 credits.  For those enrolled in B8800, it is 4 credits, with the 4th credit coming through a term paper whose requirements will be covered elsewhere.
 
-The grading breakdown is listed below.  Participation is determined by your attendance, attentiveness, and engagement during class.  Attending class is crucial!  Lectures will not generally be recorded or zoomed, because as much as possible we'll be working at the blackboard rather than from slides.
+The grading breakdown is listed below.  Participation is determined by your attendance, attentiveness, engagement during class, and weekly posts on the course Blackboard site message board (more details on that below).  Attending class is crucial!  Lectures will not generally be recorded or zoomed, because as much as possible we'll be working at the blackboard rather than from slides.
 
-Details on the homework assignments, exams, and (for B8800 only) term paper will be announced.
+For B8800 students only, details on the required term paper are available [here](../assignments/b8800-term-paper).
 
 ```{list-table}
 :header-rows: 1
@@ -50,6 +50,26 @@ Details on the homework assignments, exams, and (for B8800 only) term paper will
   - 0%
   - 20%
 ```
+
+## Expectations
+### Readings
+You should consider assigned reading from the textbook to be **mandatory**, as opposed to optional/supplemental.  Asssigned readings are posted on the [course schedule](./schedule), and it is expected that you have completed the assigned reading **prior to arriving at class that day**.
+
+That said, the midterms and final exam will focus almost entirely on material we cover directly in class.  So spend your time studying accordingly.
+
+### Weekly posts on course message board
+As part of the participation category of grading, each week (starting the week of Feb. 19-23) you are required to post at least once to the course Blackboard message board.  The post can be either one of the following:
+
+1. Identifying something from class or from an assignment that you didn't fully understand.
+2. Providing an answer or explanation to somebody else's post about something they didn't fully understand.
+
+### Homework
+HW assignments are graded on an *effort* basis, A+ through F.  An earnest, thoughtful attempt at every problem will earn you an A.  Truly exceptional work will earn an A+.
+
+All HW due dates will be posted on the [course schedule](./schedule).  **They are due at the START of class, 9:30am, that day.**
+
+At the end of the semester, your lowest HW score will be dropped.
+
 
 ## Course materials
 ### Required textbook

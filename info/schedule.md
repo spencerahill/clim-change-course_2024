@@ -1,8 +1,13 @@
 # Schedule
 
 :::{warning}
-This is a **tentative** schedule generated at the beginning of the semester.  It's unlikely that we'll follow it exactly for the whole semester; think of it as giving an overall gist of roughly what topics we'll be covering and when. 
+Last updated: 2024-02-27, valid for class up to and including **2024-02-29**.  For lectures *after* this date, the schedule is **tentative**. 
 :::
+
+:::{warning}
+Please complete the assigned reading for a given day **before** that day's class.  And HW assignments are due at the **start** of class that day, either in hard copy or by email.
+:::
+
 
 ```{list-table}
 :header-rows: 1
@@ -17,7 +22,7 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
 * - Th 1/25
   - 1
   - Course overview
-  - Ch. 1
+  - 
   - [syllabus](./syllabus)
 * - T 1/30
   - 2
@@ -27,13 +32,13 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
 * - Th 2/1
   - 3
   - Intro to climate I
-  - Ch. 1, skimming 1.6
   -
+  - 
 * - T 2/6
   - 4
   - Intro to climate II
-  -
-  -
+  - Ch. 1, skimming 1.6
+  - [HW1](../assignments/hws) assigned; due 2/15
 * - Th 2/8
   - 5
   - Global energy balance I
@@ -41,17 +46,17 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
   - 
 * - T 2/13
   - 6
-  - Global energy balance II
+  - **NO CLASS**
   - 
-  - 
+  - (canceled b/c of snow storm)
 * - Th 2/15
   - 7
-  - Atmospheric radiative transfer I
-  - Ch. 3
-  -
+  - Global energy balance II
+  - 
+  - **HW1 due**
 * - T 2/20
   - 8
-  - Atmospheric radiative transfer II
+  - Global energy balance III
   - 
   -
 * - Th 2/22
@@ -61,23 +66,23 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
   - (All classes follow Monday schedule)
 * - T 2/27
   - 10
-  - Surface energy balance I
-  - Ch. 4
-  - 
+  - Atmospheric radiative transfer I
+  - Ch. 3: §3.1-3.5
+  - [HW2](../assignments/hws) assigned; due 3/5
 * - Th 2/29
   - 11
-  - Surface energy balance II 
-  - 
+  - Atmospheric radiative transfer II
+  - Ch. 3: §3.6-3.12
   -
 * - T 3/5
   - 12
-  - Hydrologic cycle I
-  - Ch. 5
-  - 
+  - Surface energy balance I
+  - Ch. 4
+  - **HW2 due**
 * - Th 3/7
   - 13
-  - Hydrologic cycle II
-  -
+  - Surface energy balance II
+  - 
   - 
 * - T 3/12
   - 14
@@ -86,17 +91,17 @@ This is a **tentative** schedule generated at the beginning of the semester.  It
   - 
 * - Th 3/14
   - 15
-  - Atmospheric general circulation I
-  - Ch. 6
+  - Hydrological cycle
+  - Ch. 5
   -
 * - T 3/19
   - 16
-  - Atmospheric general circulation II
-  - 
+  - Atmospheric general circulation I
+  - Ch. 6
   -
 * - Th 3/21
   - 17
-  - Atmospheric general circulation III
+  - Atmospheric general circulation II
   - 
   -
 * - T 3/26

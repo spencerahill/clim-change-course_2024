@@ -10,5 +10,7 @@ parts:
       - file: info/schedule
   - caption: Assignments
     chapters: 
+      - file: assignments/hws
       - file: assignments/b8800-term-paper
+
 
