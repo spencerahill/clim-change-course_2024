@@ -1,7 +1,7 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-02-20, valid for class up to and including 2024-02-22.  For lectures *after* this date, the schedule is **tentative**. 
+Last updated: 2024-02-27, valid for class up to and including **2024-02-29**.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
@@ -68,7 +68,7 @@ Please complete the assigned reading for a given day **before** that day's class
   - 10
   - Atmospheric radiative transfer I
   - Ch. 3: §3.1-3.5
-  - 
+  - [HW2](../assignments/hws) assigned; due 3/5
 * - Th 2/29
   - 11
   - Atmospheric radiative transfer II
@@ -78,7 +78,7 @@ Please complete the assigned reading for a given day **before** that day's class
   - 12
   - Surface energy balance I
   - Ch. 4
-  - 
+  - **HW2 due**
 * - Th 3/7
   - 13
   - Surface energy balance II
