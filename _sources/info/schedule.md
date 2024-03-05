@@ -1,7 +1,7 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-02-27, valid for class up to and including **2024-02-29**.  For lectures *after* this date, the schedule is **tentative**. 
+Last updated: 2024-03-05, valid for class up to and including **2024-03-14**.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
@@ -67,22 +67,22 @@ Please complete the assigned reading for a given day **before** that day's class
 * - T 2/27
   - 10
   - Atmospheric radiative transfer I
-  - Ch. 3: §3.1-3.5
+  - Ch. 3: §3.1-3.2
   - [HW2](../assignments/hws) assigned; due 3/5
 * - Th 2/29
   - 11
   - Atmospheric radiative transfer II
-  - Ch. 3: §3.6-3.12
+  - Ch. 3: §3.3-3.4
   -
 * - T 3/5
   - 12
-  - Surface energy balance I
-  - Ch. 4
+  - Atmospheric radiative transfer III
+  - Ch. 3: §3.5-3.7
   - **HW2 due**
 * - Th 3/7
   - 13
-  - Surface energy balance II
-  - 
+  - Atmospheric radiative transfer IV
+  - Ch. 3: §3.8-3.13
   - 
 * - T 3/12
   - 14
@@ -91,37 +91,37 @@ Please complete the assigned reading for a given day **before** that day's class
   - 
 * - Th 3/14
   - 15
-  - Hydrological cycle
+  - Surface energy balance 
   - Ch. 5
   -
 * - T 3/19
   - 16
-  - Atmospheric general circulation I
+  - Hydrological cycle 
   - Ch. 6
   -
 * - Th 3/21
   - 17
-  - Atmospheric general circulation II
+  - Atmospheric general circulation I
   - 
   -
 * - T 3/26
   - 18
-  - Ocean general circulation I 
+  - Atmospheric general circulation II 
   - Ch. 7
   - 
 * - Th 3/28
   - 19
-  - Ocean general circulation II 
+  - Ocean general circulation I
   -
   -
 * - T 4/2
   - 20
-  - Paleoclimate I
+  - Ocean general circulation II
   - Ch. 9
   -
 * - Th 4/4
   - 21
-  - Paleoclimate II
+  - Paleoclimate I
   -
   - 
 * - T 4/9
