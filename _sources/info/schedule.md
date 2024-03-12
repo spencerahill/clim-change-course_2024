@@ -1,7 +1,7 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-03-05, valid for class up to and including **2024-03-14**.  For lectures *after* this date, the schedule is **tentative**. 
+Last updated: 2024-03-11, valid for class up to and including **2024-03-14**.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
@@ -92,37 +92,37 @@ Please complete the assigned reading for a given day **before** that day's class
 * - Th 3/14
   - 15
   - Surface energy balance 
-  - Ch. 5
+  - Ch. 4
   -
 * - T 3/19
   - 16
   - Hydrological cycle 
-  - Ch. 6
+  - Ch. 5
   -
 * - Th 3/21
   - 17
   - Atmospheric general circulation I
-  - 
+  - Ch. 6
   -
 * - T 3/26
   - 18
   - Atmospheric general circulation II 
-  - Ch. 7
+  - 
   - 
 * - Th 3/28
   - 19
   - Ocean general circulation I
-  -
+  - Ch. 7
   -
 * - T 4/2
   - 20
   - Ocean general circulation II
-  - Ch. 9
+  - 
   -
 * - Th 4/4
   - 21
   - Paleoclimate I
-  -
+  - Ch. 9
   - 
 * - T 4/9
   - 22
