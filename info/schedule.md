@@ -1,7 +1,7 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-02-27, valid for class up to and including **2024-02-29**.  For lectures *after* this date, the schedule is **tentative**. 
+Last updated: 2024-03-19, valid for class up to and including **2024-03-21**.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
@@ -67,22 +67,22 @@ Please complete the assigned reading for a given day **before** that day's class
 * - T 2/27
   - 10
   - Atmospheric radiative transfer I
-  - Ch. 3: §3.1-3.5
+  - Ch. 3: §3.1-3.2
   - [HW2](../assignments/hws) assigned; due 3/5
 * - Th 2/29
   - 11
   - Atmospheric radiative transfer II
-  - Ch. 3: §3.6-3.12
+  - Ch. 3: §3.3-3.4
   -
 * - T 3/5
   - 12
-  - Surface energy balance I
-  - Ch. 4
+  - Atmospheric radiative transfer III
+  - Ch. 3: §3.5-3.7
   - **HW2 due**
 * - Th 3/7
   - 13
-  - Surface energy balance II
-  - 
+  - Atmospheric radiative transfer IV
+  - Ch. 3: §3.8-3.13
   - 
 * - T 3/12
   - 14
@@ -91,39 +91,39 @@ Please complete the assigned reading for a given day **before** that day's class
   - 
 * - Th 3/14
   - 15
-  - Hydrological cycle
-  - Ch. 5
+  - Surface energy balance 
+  - Ch. 4
   -
 * - T 3/19
   - 16
-  - Atmospheric general circulation I
-  - Ch. 6
+  - Midterm 1 review 
+  - 
   -
 * - Th 3/21
   - 17
-  - Atmospheric general circulation II
-  - 
+  - Hydrological cycle 
+  - Ch. 5
   -
 * - T 3/26
   - 18
-  - Ocean general circulation I 
-  - Ch. 7
+  - Atmospheric general circulation I
+  - Ch. 6
   - 
 * - Th 3/28
   - 19
-  - Ocean general circulation II 
+  - Atmospheric general circulation II 
   -
   -
 * - T 4/2
   - 20
-  - Paleoclimate I
-  - Ch. 9
-  -
+  - Ocean general circulation
+  - Ch. 7
+  - 
 * - Th 4/4
   - 21
-  - Paleoclimate II
-  -
+  - Atmospheric and ocean circulations lab
   - 
+  - Lab day!  (rotating tanks)
 * - T 4/9
   - 22
   - Internal climate variability
@@ -131,17 +131,17 @@ Please complete the assigned reading for a given day **before** that day's class
   - 
 * - Th 4/11
   - 23
-  - **MIDTERM 2**
-  - 
+  - Paleoclimate; Natural climate change
+  - Ch. 9; Ch. 12
   - 
 * - T 4/16
   - 24
-  - Climate sensitivity I
-  - Ch. 10
+  - **MIDTERM 2**
+  - 
   -
 * - Th 4/18
   - 25
-  - Climate sensitivity II
+  - Midterm 2 review
   -
   - 
 * - T 4/23
@@ -161,27 +161,27 @@ Please complete the assigned reading for a given day **before** that day's class
   - (Spring break)
 * - Th 5/2
   - 29
-  - Global climate models
-  - Ch. 11
+  - Climate sensitivity I
+  - Ch. 10
   - 
 * - T 5/7
   - 30
-  - Natural climate change
-  - Ch. 12
+  - Climate sensitivity II
+  - 
   -
 * - Th 5/9
   - 31
-  - Anthropogenic climate change I
-  - Ch. 13
+  - Global climate models; Anthropogenic climate change I
+  - Ch. 11; Ch. 13
   - 
 * - T 5/14
   - 32
   - Anthropogenic climate change II
   -
   - 
-* - TBD
+* - **T 5/21 8-10:15am**
   - 33
-  - Final exam
+  - **FINAL EXAM**
   -
-  -
+  - [official schedule](https://www.ccny.cuny.edu/registrar/spring-2024-final-exam-schedule)
 ```
