@@ -1,7 +1,7 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-04-02, valid for class up to and including **2024-04-30**.  For lectures *after* this date, the schedule is **tentative**. 
+Last updated: 2024-04-16, valid for class up to and including **2024-04-30**.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
@@ -184,4 +184,10 @@ Please complete the assigned reading for a given day **before** that day's class
   - **FINAL EXAM**
   -
   - [official schedule](https://www.ccny.cuny.edu/registrar/spring-2024-final-exam-schedule)
+* - **W 5/22 11:59pm**
+  - n/a
+  - **B8800 FINAL PAPER DUE**
+  -
+  -  [instructions](../assignments/b8800-term-paper)
+
 ```
