@@ -1,11 +1,11 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-03-19, valid for class up to and including **2024-03-21**.  For lectures *after* this date, the schedule is **tentative**. 
+Last updated: 2024-04-16, valid for class up to and including **2024-04-30**.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
-Please complete the assigned reading for a given day **before** that day's class.  And HW assignments are due at the **start** of class that day, either in hard copy or by email.
+Please complete the assigned reading for a given day **before** that day's class.
 :::
 
 
@@ -91,7 +91,7 @@ Please complete the assigned reading for a given day **before** that day's class
   - 
 * - Th 3/14
   - 15
-  - Surface energy balance 
+  - Surface energy balance I
   - Ch. 4
   -
 * - T 3/19
@@ -101,48 +101,48 @@ Please complete the assigned reading for a given day **before** that day's class
   -
 * - Th 3/21
   - 17
-  - Hydrological cycle 
-  - Ch. 5
+  - Surface energy balance II 
+  - 
   -
 * - T 3/26
   - 18
-  - Atmospheric general circulation I
-  - Ch. 6
+  - Hydrological cycle 
+  - Ch. 5
   - 
 * - Th 3/28
   - 19
-  - Atmospheric general circulation II 
-  -
+  - Atmospheric general circulation I
+  - Ch. 6
   -
 * - T 4/2
   - 20
-  - Ocean general circulation
-  - Ch. 7
+  - Atmospheric general circulation II 
+  - 
   - 
 * - Th 4/4
   - 21
+  - Ocean general circulation 
+  - Ch. 7
+  - 
+* - T 4/9
+  - 22
   - Atmospheric and ocean circulations lab
   - 
   - Lab day!  (rotating tanks)
-* - T 4/9
-  - 22
-  - Internal climate variability
-  - Ch. 8
-  - 
 * - Th 4/11
   - 23
-  - Paleoclimate; Natural climate change
-  - Ch. 9; Ch. 12
+  - **MIDTERM 2**
+  - 
   - 
 * - T 4/16
   - 24
-  - **MIDTERM 2**
-  - 
+  - Internal climate variability 
+  - Ch. 8
   -
 * - Th 4/18
   - 25
-  - Midterm 2 review
-  -
+  - Paleoclimate; Natural climate change
+  - Ch. 9; Ch. 12
   - 
 * - T 4/23
   - 26
@@ -184,4 +184,10 @@ Please complete the assigned reading for a given day **before** that day's class
   - **FINAL EXAM**
   -
   - [official schedule](https://www.ccny.cuny.edu/registrar/spring-2024-final-exam-schedule)
+* - **W 5/22 11:59pm**
+  - n/a
+  - **B8800 FINAL PAPER DUE**
+  -
+  -  [instructions](../assignments/b8800-term-paper)
+
 ```

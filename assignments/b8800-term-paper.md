@@ -32,6 +32,8 @@ Since this is a *literature review*, it is **not** required to do any data analy
 ### Length
 The final submitted paper will be ~10-15 pages (not including the bibliography), double-spaced.
 
+The abstract should not exceed roughly 250 words.  The abstract should introduce the scientific question you're exploring, motivate it, and briefly summarize the paper's key findings, and possibly conclude with some outlook for future work etc.  No more, no less.
+
 The 10-15 page range is only a guideline: more important than the exact length is how clearly you convey your scientific story.  If you can do that in, say, 8 pages, that's great.  (As the [adage](https://www.quora.com/Who-wrote-the-quote-If-I-had-more-time-I-would-have-written-you-a-shorter-letter) goes, "Sorry I wrote you a long [review paper]; I didn't have time to write you a shorter one.")
 
 Or, especially if you include multiple large figures, perhaps you'll end up needing, say, 18 pages.
@@ -47,12 +49,11 @@ My preference is for you to submit the final paper and intermediate steps as [La
 That said, I will also accept Word, Pages, or PDF files.  You can email them as attachments or share them with me via Google Drive...just use the Google Drive associated with your CUNY "citymail" email account, and share it with my email address that's on the syllabus.
 
 ## Timeline
-
 - By **Friday, February 16th, 2024**: submit topic proposal (title and 1-2 sentence summary)
 - By **Friday, March 1st, 2024**: submit annotated list of 5 identified papers (1 sentence each summarizing what you expect it to cover).
 - By **Friday, April 5th, 2024**: having read your 5 approved papers, submit draft title, abstract, and 5 additional papers.
 - By **Friday, May 3rd, 2024**: submit complete (but rough) draft.
-- Final deadline: **TBD** (awaiting CCNY announcement of final exam dates)
+- Final deadline: **Wednesday, May 22nd, 2024** (by 11:59pm)
 
 
 
