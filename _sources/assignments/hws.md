@@ -27,3 +27,11 @@ Assignments are due via Blackboard by the time specified.  Refer to the [syllabu
     3. $T_s=30$°C, $q_s^*=28$ g kg$^{−1}$, RH=50% 
     4. $T_s=30$°C, $q_s^*=28$ g kg$^{−1}$, RH=100%
 4. Calculate the Bowen ratio using the bulk aerodynamic formulas for surface temperatures of 0, 14, and 28°C, if the relative humidity of the air at the reference level is 75% and the air–sea temperature difference is 1.8°C.  Assume that the transfer coefficients for heat and moisture are equal.
+
+## HW4, due May 14th 11:59pm
+1. (Hartmann Ch. 6 Q4) Calculate the zonal velocity of an air parcel at the equator, if it has conserved angular momentum while moving to the equator from 20°S, where it was initially at rest relative to the surface.
+2. (Hartmann Ch. 7 Q1) Use the data in Figs 7.1 and 7.2 to estimate how much the salinity of
+the surface water of the Arctic Ocean would need to increase before the surface density would equal the potential density at 1000-m depth.  How does this compare with the average salinity of the ocean?
+3. Play around with this online interactive simulator of a double pendulum for a while: https://www.myphysicslab.com/pendulum/double-pendulum-en.html.  What settings (initial conditions of each rod, mass of each rod, lengh of each rod, etc.) make it enter the "chaotic" regime?  Include two screenshots, one in the non-chaotic regime and one in the chaotic regime.
+4. **Using ChatGPT or another LLM of your choice**, research the Pacific Decadal Oscillation.  **After** you use the LLM, double check what you've learned against a more reliable source such as the textbook in CH. 8 or the [wikipedia page on the PDO](https://en.wikipedia.org/wiki/Pacific_decadal_oscillation).  Use what you've learned from all sources to answer Q10 from Hartmann Ch. 8: "Assemble a list of arguments for and against the following statement. “The PDO is just the low-frequency, extratropical signature of ENSO, nothing more."
+5. (survey Q) How much did you learn or not learn from the previous question using an LLM?  Do you have any ideas of how to effectively incorporate LLMs into this class or other classes?

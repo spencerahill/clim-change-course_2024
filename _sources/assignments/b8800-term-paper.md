@@ -38,6 +38,11 @@ The 10-15 page range is only a guideline: more important than the exact length i
 
 Or, especially if you include multiple large figures, perhaps you'll end up needing, say, 18 pages.
 
+### Figures
+You are encouraged to include figures taken from the papers you cite.  Simply include in the figure caption language along the lines of "Reproduction of Fig.~X from Martinez et al. 2020."  Likewise for tables.
+
+You can also, if you think it's worth the effort and space, create your own figure or table, with a potentially useful figure being a schematic that somehow synthesizes the big picture across the studies you've surveyed.
+
 ### Formatting
 For citations and bibliography, there is no particular required style (MLM, APA, etc.).  Pick one, and use it consistently.
 
