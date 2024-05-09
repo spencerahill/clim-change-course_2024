@@ -1,7 +1,7 @@
 # Schedule
 
 :::{warning}
-Last updated: 2024-05-02, valid for class up to and including **2024-05-02**.  For lectures *after* this date, the schedule is **tentative**. 
+Last updated: 2024-05-08, valid for class up to and including **2024-05-09**.  For lectures *after* this date, the schedule is **tentative**. 
 :::
 
 :::{warning}
