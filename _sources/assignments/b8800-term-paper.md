@@ -49,7 +49,6 @@ You must include a bibliography after the main text, comprising *every* paper th
 
 There is no particular required formatting style---MLM, APA, etc.---for the in-line citations or bibliography.  Pick one, and use it consistently.
 
-
 ### Figures
 You are encouraged to include figures taken from the papers you cite.  Simply include in the figure caption language along the lines of "Reproduction of Fig.~X from Martinez et al. 2020."  Likewise for tables.
 
@@ -58,6 +57,13 @@ You can also, if you think it's worth the effort and space, create your own figu
 ### Formatting
 In addition to being double-spaced, keep all other formatting (font, margins, etc.) standard-ish.  I'd rather have it go to e.g. a 16th page with ample margins and a 11 or 12-pt font rather than it being squished into 15 pages.
 
+### Precision and concreteness
+As much as possible, avoid generic statements like "X influences Y", where "influence" could alternatively be "effects", "modifies" "changes" etc.  Precisely how does X influence Y?  In what sign, and if possible quantitatively by how much?  Via what physical (or other) mechanism?
+
+### Editorializing
+It's ok and even encoraged to give, as part of your Concluding section, some brief and narrowly scoped remarks regarding what you believe is important moving forward given what you learned from the papers you reviewed.  But keep it to that, and avoid absolutist language: (e.g. "we must", "imperative", etc.).  The job of this paper is to synthesize findings from academic studies, nothing more, nothing less.
+
+## Logistics
 ### How to submit
 My preference is for you to submit the final paper and intermediate steps as [LaTeX](https://www.latex-project.org/) files, shared with me via [Overleaf](https://www.overleaf.com/).
 
