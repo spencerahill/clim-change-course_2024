@@ -1,8 +1,8 @@
 # Schedule
 
-:::{warning}
-Last updated: 2024-04-16, valid for class up to and including **2024-04-30**.  For lectures *after* this date, the schedule is **tentative**. 
-:::
+<!-- :::{warning} -->
+<!-- Last updated: 2024-05-08, valid for class up to and including **2024-05-09**.  For lectures *after* this date, the schedule is **tentative**.  -->
+<!-- ::: -->
 
 :::{warning}
 Please complete the assigned reading for a given day **before** that day's class.
@@ -136,13 +136,13 @@ Please complete the assigned reading for a given day **before** that day's class
   - 
 * - T 4/16
   - 24
-  - Internal climate variability 
+  - Internal climate variability I
   - Ch. 8
   -
 * - Th 4/18
   - 25
-  - Paleoclimate; Natural climate change
-  - Ch. 9; Ch. 12
+  - (canceled)
+  - 
   - 
 * - T 4/23
   - 26
@@ -161,23 +161,23 @@ Please complete the assigned reading for a given day **before** that day's class
   - (Spring break)
 * - Th 5/2
   - 29
-  - Climate sensitivity I
-  - Ch. 10
+  - Internal climate variability II 
+  - 
   - 
 * - T 5/7
   - 30
-  - Climate sensitivity II
-  - 
+  - Paleoclimate; Natural climate change; 
+  - Ch. 9; Ch. 12; 
   -
 * - Th 5/9
   - 31
-  - Global climate models; Anthropogenic climate change I
-  - Ch. 11; Ch. 13
+  - Climate sensitivity; Anthropogenic climate change I
+  - Ch. 10; Ch. 13
   - 
 * - T 5/14
   - 32
-  - Anthropogenic climate change II
-  -
+  - Global climate models; Anthropogenic climate change II
+  - Ch. 11
   - 
 * - **T 5/21 8-10:15am**
   - 33
