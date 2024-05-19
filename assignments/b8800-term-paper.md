@@ -38,11 +38,32 @@ The 10-15 page range is only a guideline: more important than the exact length i
 
 Or, especially if you include multiple large figures, perhaps you'll end up needing, say, 18 pages.
 
-### Formatting
-For citations and bibliography, there is no particular required style (MLM, APA, etc.).  Pick one, and use it consistently.
+### Citations and bibliography
+You must include in-line citations for *every* nontrivial factual claim made in your paper.  As such, at least in the main sections of your paper, nearly every sentence include a citation---and some sentences will include multiple, if either (1) multiple studies are relevant regarding the same point, or (2) the sentence brings up multiple, distinct nontrivial factual claims.  Even if multiple consecutive sentences are derived from the same single source, that source should be cited in each individual sentence, not just the last one.
 
+What is a "nontrivial factual claim?"  A useful rule of thumb is the following: would a typical adult be able to find the information *and understand it* via a few minutes of Googling?  If yes, it doesn't need a citation.  So, for example, the radius of Earth does not require a citation.  But if not, it does require a citation.  So, for example, the role Earth's radius plays in the atmospheric angular momentum distribution would require one or more citations.  
+
+When in doubt, include a citation---much better to add a citation that could have been done without than to leave out a citation that really should have been there.  This is because omitting needed citations can give the impression of academic disintegrity, which is very serious indeed.  By comparison, excess citations are just moderately distracting/grating for the reader.
+
+You must include a bibliography after the main text, comprising *every* paper that is cited in the main text *and no others*.
+
+There is no particular required formatting style---MLM, APA, etc.---for the in-line citations or bibliography.  Pick one, and use it consistently.
+
+### Figures
+You are encouraged to include figures taken from the papers you cite.  Simply include in the figure caption language along the lines of "Reproduction of Fig.~X from Martinez et al. 2020."  Likewise for tables.
+
+You can also, if you think it's worth the effort and space, create your own figure or table, with a potentially useful figure being a schematic that somehow synthesizes the big picture across the studies you've surveyed.
+
+### Formatting
 In addition to being double-spaced, keep all other formatting (font, margins, etc.) standard-ish.  I'd rather have it go to e.g. a 16th page with ample margins and a 11 or 12-pt font rather than it being squished into 15 pages.
 
+### Precision and concreteness
+As much as possible, avoid generic statements like "X influences Y", where "influence" could alternatively be "effects", "modifies" "changes" etc.  Precisely how does X influence Y?  In what sign, and if possible quantitatively by how much?  Via what physical (or other) mechanism?
+
+### Editorializing
+It's ok and even encoraged to give, as part of your Concluding section, some brief and narrowly scoped remarks regarding what you believe is important moving forward given what you learned from the papers you reviewed.  But keep it to that, and avoid absolutist language: (e.g. "we must", "imperative", etc.).  The job of this paper is to synthesize findings from academic studies, nothing more, nothing less.
+
+## Logistics
 ### How to submit
 My preference is for you to submit the final paper and intermediate steps as [LaTeX](https://www.latex-project.org/) files, shared with me via [Overleaf](https://www.overleaf.com/).
 
