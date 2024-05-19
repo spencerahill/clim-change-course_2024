@@ -1,8 +1,8 @@
 # Schedule
 
-:::{warning}
-Last updated: 2024-05-08, valid for class up to and including **2024-05-09**.  For lectures *after* this date, the schedule is **tentative**. 
-:::
+<!-- :::{warning} -->
+<!-- Last updated: 2024-05-08, valid for class up to and including **2024-05-09**.  For lectures *after* this date, the schedule is **tentative**.  -->
+<!-- ::: -->
 
 :::{warning}
 Please complete the assigned reading for a given day **before** that day's class.
